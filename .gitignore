@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+.buildozer/
+bin/
+.gradle/
+*.egg-info/
+dist/
+build/
+*.o
+.env
+*.swp
+*.swo
+*~
+.DS_Store
+*.apk
